@@ -1,0 +1,22 @@
+actions: []
+authors: "\u9A6C\u946B\u5B87 <7881999@qq.com>"
+brief: ''
+bugtracker: ''
+depends:
+- catkin
+- roscpp
+- std_msgs
+- sensor_msgs
+- image_transport
+- OpenCV
+- rospy
+- cv_bridge
+description: "gige_cap\u5305\u8D1F\u8D23Robit\u6444\u50CF\u5934\u7684\u4EA4\u4E92\uFF0C\
+  \u652F\u6301GigE\u6444\u50CF\u5934\u548C1394\u6444\u50CF\u5934\u3002"
+license: Reserved
+maintainers: "\u9A6C\u946B\u5B87 <7881999@qq.com>"
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''

@@ -1,0 +1,9 @@
+
+Obstacle_Threshold
+360 103 173 274 0 31
+
+Ball_Threshold
+360 255 255 341 0 0
+
+Ball_Threshold
+360 255 255 0 0 0

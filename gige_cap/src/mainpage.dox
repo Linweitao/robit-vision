@@ -1,0 +1,12 @@
+/**
+
+@mainpage
+
+@htmlinclude manifest.html
+
+@b gige-cap 负责处理和相机的交互和配置。支持GigE局域网相机与1394火线接口相机。
+
+  @sa gige
+  @sa gige_main.cpp
+
+**/
